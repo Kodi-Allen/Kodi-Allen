@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title description">
+  <title id="title">Kodi Allen</title>
+  <desc id="description">Add-ons, media tools and skin customizations for the Kodi community.</desc>
+  <rect width="1200" height="240" rx="18" fill="#10242c"/>
+  <path d="M900 0h300v240H720z" fill="#153943"/>
+  <path d="M1045 0h155v240H865z" fill="#1c5059"/>
+  <rect x="48" y="46" width="54" height="5" rx="2.5" fill="#54d8c0"/>
+  <text x="48" y="119" fill="#f5fafb" font-family="Segoe UI,Arial,sans-serif" font-size="56" font-weight="700" letter-spacing="1">Kodi Allen</text>
+  <text x="51" y="164" fill="#c1d8dc" font-family="Segoe UI,Arial,sans-serif" font-size="23">Add-ons &#183; Media tools &#183; Skin customizations</text>
+  <path d="m1030 78 42 42-42 42m-38-84-42 42 42 42" fill="none" stroke="#74dfd0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
