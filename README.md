@@ -11,6 +11,7 @@ I maintain community add-ons and skin customizations for **Kodi**, with a focus 
 | Project | What it does | Get started |
 | :--- | :--- | :--- |
 | **[Kodi Allen Repository](https://github.com/Kodi-Allen/kodi-repo)** | The installation hub for ParkStream, TubiTV, MPLS STRM Player, artwork tools and the Aeon Tajo skin. | [Install & browse add-ons](https://github.com/Kodi-Allen/kodi-repo#installation) |
+| **[TubiTV](https://github.com/Kodi-Allen/kodi-repo/tree/main/plugin.video.tubitv)** | An unofficial Tubi add-on with its own browsing interface, library export and optional account features. | [Features & screenshots](https://github.com/Kodi-Allen/kodi-repo/blob/main/plugin.video.tubitv/README.md) |
 | **[ParkStream](https://github.com/Kodi-Allen/plugin.video.parkstream)** | An unofficial South Park add-on for Kodi 21 (Omega), using the official regional websites. | [Guide & screenshots](https://github.com/Kodi-Allen/kodi-repo/blob/main/docs/parkstream/README.md) |
 | **[Aeon Tajo — Tweaked](https://github.com/Kodi-Allen/skin.aeon.tajo-tweaked)** | Personal customizations of manfeed's Aeon Tajo skin, with branch and installation notes. | [Skin guide](https://github.com/Kodi-Allen/skin.aeon.tajo-tweaked#readme) |
 
